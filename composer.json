@@ -1,0 +1,16 @@
+{
+    "name": "tcl/sayhello",
+    "description": "first composer project",
+    "authors": [
+        {
+            "name": "tcl",
+            "email": "tiechenglong@meishi.cc"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+		"Hello\\":"src/"
+	}
+    }
+}
