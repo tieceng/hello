@@ -1,17 +1,18 @@
 {
-    "name": "tcl/sayhello",
-    "description": "first composer project",
+    "name": "tcl/hello",
+    "description": "first composer pro",
+    "license": "MIT",
     "authors": [
         {
             "name": "tcl",
             "email": "tiechenglong@meishi.cc"
         }
     ],
-      "minimum-stability": "dev",
+    "minimum-stability": "dev",
     "require": {},
     "autoload":{
-    	"psr-4":{
-		"Hello\\":"src/"
+    	"psr-4" : {
+		"Hello\\" :"src/"
 	}
     }
 }
